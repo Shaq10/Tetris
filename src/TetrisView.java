@@ -3,9 +3,6 @@ import java.awt.*;
 // import all the Colors
 import static java.awt.Color.*;
 
-// code copied from Simon Lucas
-// code copied by Udo Kruschwitz
-
 public class TetrisView extends JComponent {
     public static Color[] colors = { white,green,blue,red,yellow,magenta,pink,cyan };
     public int[][] dim1;

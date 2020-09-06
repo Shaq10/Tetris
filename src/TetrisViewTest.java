@@ -11,10 +11,6 @@ import java.io.IOException;
 /**
  * Created by Shaquille on 09/12/2016.
  */
-
-// code copied from Simon Lucas
-// code copied by Udo Kruschwitz
-
 public class TetrisViewTest{
     private static AudioPlayer AP = AudioPlayer.player;
     private static ContinuousAudioDataStream loop = null;
